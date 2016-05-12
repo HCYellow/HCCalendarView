@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property (nonatomic,strong) UICollectionView *calendarView;
+
 @end
 
 @implementation ViewController
